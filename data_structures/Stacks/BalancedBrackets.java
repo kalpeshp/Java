@@ -1,4 +1,4 @@
-/*
+package Stacks;/*
 
 The nested brackets problem is a problem that determines if a sequence of
 brackets are properly nested.  A sequence of brackets s is considered properly nested

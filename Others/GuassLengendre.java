@@ -1,3 +1,5 @@
+package Others;
+
 import java.lang.Math;
 /*
  * author: @AKS1996

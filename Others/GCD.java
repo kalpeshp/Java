@@ -1,4 +1,4 @@
-//Oskar Enmalm 3/10/17
+package Others;//Oskar Enmalm 3/10/17
 //This is Euclid's algorithm which is used to find the greatest common denominator
 //Overide function name gcd
 
